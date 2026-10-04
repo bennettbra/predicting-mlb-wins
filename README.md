@@ -2,7 +2,7 @@
 
 This project analyzes how different team statistics relate to Major League Baseball winning percentage. It was originally completed in December 2025 for my Introduction to Data Science course. After the original notebook was lost, I reconstructed the analysis from a saved PDF of the project to preserve and document the work.
 
-![Original Poster](images/Poster.png)
+![Original Poster](images/Project.png)
 
 ## Project Overview
 
